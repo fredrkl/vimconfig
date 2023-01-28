@@ -1,0 +1,10 @@
+[user]
+	name = Fredrik Klingenberg
+	email = fredrkl@gmail.com
+[alias]
+	st = status
+	ci = commit --signoff
+	br = branch
+	lg = log --pretty=oneline --abbrev-commit --graph
+[core]
+	editor = vim
